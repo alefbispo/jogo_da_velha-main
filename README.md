@@ -1,6 +1,6 @@
 # jogo_da_velha
- primeiro app em flutter
+ Voltando ao primeiro app e adicionando um placar
  
- criado seguindo modelo MVC
- programação orientada a objetos (POO)
+ proximo desafio:
  
+ # criar um bot com niveis de dificuldade
